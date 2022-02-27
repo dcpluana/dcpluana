@@ -2,9 +2,9 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
-  <a href="https://github.com/luanadcp">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luanadcp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<!-- img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanadcp&layout=compact&langs_count=7&theme=radical"/> -->
+  <a href="https://github.com/dcpluana">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dcpluanap&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<!-- img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcpluana&layout=compact&langs_count=7&theme=radical"/> -->
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
