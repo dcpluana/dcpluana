@@ -1,6 +1,7 @@
 ### Hello! Eu sou a Luana!  👋
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 💻 Hoje estou em transição de carreira para a área tecnológica
+- Atualmente estou estudando JAVA
 
 <div align="center">
   <a href="https://github.com/dcpluana">
