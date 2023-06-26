@@ -1,6 +1,5 @@
 ### Hello! Eu sou a Luana!  👋
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 📃 Possuo Graduação em Fonoaudiologia/UFRJ
 
 <div align="center">
   <a href="https://github.com/dcpluana">
